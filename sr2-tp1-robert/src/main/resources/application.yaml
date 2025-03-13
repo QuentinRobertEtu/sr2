@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: FlopBox
+
+logging:
+  level:
+    root: INFO
+
+server:
+  port: 3001
+  servlet:
+    context-path: /flopbox
